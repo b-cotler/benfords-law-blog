@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Benford's Law - Digital Analysis for Fraud Detection
-description: An introduction to Benford's Law with applications to Digital Forensic Analysis and the 2020 US Presidential Election
+title: Benfords Law
+description: An introduction to Benfords Law with applications to Digital Forensic Analysis and the 2020 US Presidential Election
 github_username: b-cotler
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "benfords-law-blog"
